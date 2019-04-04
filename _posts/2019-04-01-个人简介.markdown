@@ -15,12 +15,12 @@ categories: jonz
 
  - 王志恒/男/1995.7
  - 本科/厦门理工学院-计算机科学与技术
- - 工作年限：3年
+ - 开发经验：3年
  - 技术博客：https://jonzoro.github.io/
  - Github：https://github.com/jonzoro
 
  - 期望职位：Java开发工程师
- - 期望薪资：10k~15k，特别喜欢的公司可例外
+ - 期望薪资：10k~15k（非硬性条件）
  - 期望城市：厦门
 
 ---
@@ -54,7 +54,6 @@ categories: jonz
  - [微信公众号后台服务](https://github.com/jonzoro/wechat-server)：基于个人订阅号开发的工具箱，日常添加自己的需求：如备忘录，晚餐推荐等。
  - [CRUD型种子项目(Java)](https://github.com/jonzoro/spring-boot-api-project-seed)：一个基于Java & Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目。
  - [CRUD型种子项目(Kotlin)](https://github.com/jonzoro/server-seed)：一个基于Kotlin & Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目。
- - [SpingBoot-Dubbo](https://github.com/jonzoro/spingboot-dubbo)：SpringBoot整合Dubbo的示例项目。
 
 ## 技术文章
 - [【公众号】Lambda表达式结合策略模式的实际应用过程](https://mp.weixin.qq.com/s?__biz=MjM5MTM3ODE1OA==&mid=2247483690&idx=1&sn=53193b63eddb55ea40753adce722e84b&chksm=a6b73eab91c0b7bd4883fd4df5ee1fce94a9558c507844da5ce509577453e92d785357e952a4&mpshare=1&scene=1&srcid=0404lA9XCOX7iw4CfyvIi0qY&key=7c2de03dd17390134176a79631ad6d6c37d372ec5a6e7ad1c5debd18167bbb2de4f11b458f7d42e5213736f5d2e75974dab01ad4e56c1a7c97d7f98efb2b44d354b6671c5442b24f1dd741f6b6514701&ascene=1&uin=MjkwMzczMzU%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=U7g%2BiQpywLDVE70K9wLl2Nw8%2BKLWDmN3Ni0XwwAoUgk%3D)
