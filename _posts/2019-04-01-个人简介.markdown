@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "个人简介"
+date:   2019-04-01 00:00:00 +0000
+categories: jonz
+---
+# 联系方式(Base64)
+- 手机：MTU2MDYwOTI0NTk=
+- Email：am9uLXpvcm9AaG90bWFpbC5jb20=
+- QQ/微信号：ODIzNjQ5MDQzLzE1NjA2MDkyNDU5
+
+---
+
+# 个人信息
+
+ - 王志恒/男/1995.7
+ - 本科/厦门理工学院-计算机科学与技术
+ - 工作年限：3年
+ - 技术博客：https://jonzoro.github.io/
+ - Github：https://github.com/jonzoro
+
+ - 期望职位：Java开发工程师
+ - 期望薪资：10k~15k，特别喜欢的公司可例外
+ - 期望城市：厦门
+
+---
+
+# 工作经历
+
+## 厦门海豹萌区块链科技（2018年9月 ~ 2019年4月）
+
+### CatPool管理后台 & LJK管理后台
+采用Kotlin作为主要开发语言，SpringBoot+MyBatis作为主要框架，数据库为PostgreSQL。除了业务功能的开发，还利用插件实现常用业务代码生成的功能、利用AOP实现系统操作记录的功能以及利用拦截器实现分页查询和固定字段赋值等架构基础功能。
+
+### 钱包APP服务端
+采用Clojure作为主要开发语言，数据库为PostgreSQL。从兼职的开发交接过来后重新调整了项目架构并负责了后续的维护及升级，除了业务功能开发外，还通过与第三方系统对接开发了包括比特币查询、转账交易、消息推送以及短信通知等功能，完善和优化了钱包APP的使用体验。
+
+### 浏览器服务端
+采用Clojure作为主要开发语言，数据库为PostgreSQL。独自负责对原有的服务端进行重构，提供SEAL链上所有地址、交易等信息的查询功能。并通过索引与SQL语句的调整来做了数据库的优化。
+
+
+## 厦门吉联科技（2016年8月 ~ 2018年9月）
+
+### WMS（仓储管理系统）
+为振华物流集团仓储部门所定制开发的管理系统，提供给公司内部超过500个员工所使用。系统采用Spring+Struts+Hibernate作为主要架构，前端使用JSP配合jQuery进行开发。在项目中承担了核心开发的角色，负责出库管理和派工管理等核心功能模块及与外部系统对接的接口开发。
+
+### OMS（订单管理系统）
+为振华物流集团业务部门所定制开发的订单管理系统，提供给公司内部超过500个员工所使用。系统采用Spring+Struts+Hibernate作为主要架构，前端使用JSP配合jQuery进行开发。在项目中承担了核心开发的角色，负责其中两条业务线的功能开发及与外部系统对接的接口开发。
+
+---
+
+# 开源项目和作品
+## 开源项目
+ - [微信公众号后台服务](https://github.com/jonzoro/wechat-server)：基于个人订阅号开发的工具箱，日常添加自己的需求：如备忘录，晚餐推荐等。
+ - [CRUD型种子项目(Java)](https://github.com/jonzoro/spring-boot-api-project-seed)：一个基于Java & Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目。
+ - [CRUD型种子项目(Kotlin)](https://github.com/jonzoro/server-seed)：一个基于Kotlin & Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目。
+ - [SpingBoot-Dubbo](https://github.com/jonzoro/spingboot-dubbo)：SpringBoot整合Dubbo的示例项目。
+
+## 技术文章
+- [【公众号】Lambda表达式结合策略模式的实际应用过程](https://mp.weixin.qq.com/s?__biz=MjM5MTM3ODE1OA==&mid=2247483690&idx=1&sn=53193b63eddb55ea40753adce722e84b&chksm=a6b73eab91c0b7bd4883fd4df5ee1fce94a9558c507844da5ce509577453e92d785357e952a4&mpshare=1&scene=1&srcid=0404lA9XCOX7iw4CfyvIi0qY&key=7c2de03dd17390134176a79631ad6d6c37d372ec5a6e7ad1c5debd18167bbb2de4f11b458f7d42e5213736f5d2e75974dab01ad4e56c1a7c97d7f98efb2b44d354b6671c5442b24f1dd741f6b6514701&ascene=1&uin=MjkwMzczMzU%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=U7g%2BiQpywLDVE70K9wLl2Nw8%2BKLWDmN3Ni0XwwAoUgk%3D)
+- [【翻译】Kotlin 与 JavaScript 模块使用](https://www.kotlincn.net/docs/tutorials/javascript/working-with-modules/working-with-modules.html)
+- [【翻译】基本 Kotlin/Native 应用程序](https://www.kotlincn.net/docs/tutorials/native/basic-kotlin-native-app.html)
+
+# 技能清单
+- 思维导图形式请参考>>>[技能树](http://naotu.baidu.com/file/df929e13b91a63505d315adaad7d89da?token=4442b91c9e7a06e9)
+
+---
+
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
